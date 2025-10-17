@@ -363,22 +363,22 @@ const Portfolio = () => {
 
   const testimonials = [
     {
-      quote: "Absolutely phenomenal work! The platform exceeded all our expectations and delivered incredible ROI within the first quarter.",
-      name: "Sarah Chen",
-      role: "CEO, TechCorp",
-      avatar: "SC"
+      quote: "The communication was excellent. The developer really took the time to understand my vision and delivered exactly what I asked for (and more!). A truly great partnership.",
+      name: "karutha Pandi",
+      role: "Neon Frame Xcellence (VFX STUDIO)",
+      avatar: "KP"
     },
     {
-      quote: "The attention to detail and technical expertise is outstanding. Our conversion rates increased by 340% after the redesign.",
-      name: "Marcus Johnson",
-      role: "CTO, StartupXYZ",
-      avatar: "MJ"
+      quote: "A massive thank you! Before, my website felt outdated. Now, it's modern, fast, and works perfectly for my business needs. I couldn't be happier with the transformation.",
+      name: "Taneesh Beloshe",
+      role: "E-commerce",
+      avatar: "TB"
     },
     {
       quote: "Professional, reliable, and incredibly talented. The best developer we've ever worked with. Highly recommended!",
-      name: "Elena Rodriguez",
+      name: "Mukesh Kannan",
       role: "Founder, InnovateAI",
-      avatar: "ER"
+      avatar: "MK"
     }
   ];
 
@@ -438,7 +438,7 @@ const Portfolio = () => {
                 <Code className="w-5 h-5 text-white" />
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent">
-                DevMaster
+                Shakthivel
               </span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
@@ -473,8 +473,8 @@ const Portfolio = () => {
             </div>
             
             <h1 className="text-6xl md:text-8xl font-bold mb-6 leading-tight">
-              <span className="block bg-gradient-to-r from-white via-cyan-100 to-white bg-clip-text text-transparent">
-                Premium
+              <span className="block bg-gradient-to-r text-6xl from-white via-cyan-100 to-white bg-clip-text text-transparent">
+                Hey I'm Shakthi ,
               </span>
               <span className="block bg-gradient-to-r from-cyan-400 via-blue-400 to-purple-400 bg-clip-text text-transparent">
                 Full Stack Developer
@@ -592,16 +592,16 @@ const Portfolio = () => {
           </div>
           
           <div className="flex items-center justify-center gap-8">
-            <a href="#" className="group w-14 h-14 bg-slate-800/50 border border-slate-600/50 rounded-2xl flex items-center justify-center hover:bg-slate-700/50 hover:border-slate-500/50 transition-all duration-300 hover:scale-110">
+            <a href="https://github.com/shakthi5123" className="group w-14 h-14 bg-slate-800/50 border border-slate-600/50 rounded-2xl flex items-center justify-center hover:bg-slate-700/50 hover:border-slate-500/50 transition-all duration-300 hover:scale-110">
               <Github className="w-6 h-6 text-slate-400 group-hover:text-white" />
             </a>
-            <a href="#" className="group w-14 h-14 bg-slate-800/50 border border-slate-600/50 rounded-2xl flex items-center justify-center hover:bg-slate-700/50 hover:border-slate-500/50 transition-all duration-300 hover:scale-110">
+            <a href="https://www.linkedin.com/in/shakthivel-dev/" className="group w-14 h-14 bg-slate-800/50 border border-slate-600/50 rounded-2xl flex items-center justify-center hover:bg-slate-700/50 hover:border-slate-500/50 transition-all duration-300 hover:scale-110">
               <Linkedin className="w-6 h-6 text-slate-400 group-hover:text-white" />
             </a>
             <a href="#" className="group w-14 h-14 bg-slate-800/50 border border-slate-600/50 rounded-2xl flex items-center justify-center hover:bg-slate-700/50 hover:border-slate-500/50 transition-all duration-300 hover:scale-110">
               <Twitter className="w-6 h-6 text-slate-400 group-hover:text-white" />
             </a>
-            <a href="#" className="group w-14 h-14 bg-slate-800/50 border border-slate-600/50 rounded-2xl flex items-center justify-center hover:bg-slate-700/50 hover:border-slate-500/50 transition-all duration-300 hover:scale-110">
+            <a href="mailto:sakthivel2003al@gmail.com" className="group w-14 h-14 bg-slate-800/50 border border-slate-600/50 rounded-2xl flex items-center justify-center hover:bg-slate-700/50 hover:border-slate-500/50 transition-all duration-300 hover:scale-110">
               <Mail className="w-6 h-6 text-slate-400 group-hover:text-white" />
             </a>
           </div>
